@@ -11,8 +11,6 @@ import {
   ContactParagraphs,
 } from '../constants';
 
-console.log(socials);
-
 const Footer = () => (
   <motion.footer
     variants={footerVariants}
